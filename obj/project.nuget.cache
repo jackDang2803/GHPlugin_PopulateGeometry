@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2GN8ZL4ygQtXep4UJHgjyKolkJdLGy5u8jystZd24rGZ7NNyapoZh2foQ8TtcfnWr8+PMonReIw0yOyQGEv0EA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jackD\\source\\repos\\PopulatingGeo\\QuocGHPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jackD\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
+    "C:\\Users\\jackD\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}

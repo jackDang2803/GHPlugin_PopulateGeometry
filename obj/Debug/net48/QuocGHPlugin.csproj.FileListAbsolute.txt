@@ -1,0 +1,12 @@
+C:\Users\jackD\source\repos\PopulatingGeo\bin\Debug\net48\QuocGHPlugin.gha
+C:\Users\jackD\source\repos\PopulatingGeo\bin\Debug\net48\QuocGHPlugin.pdb
+C:\Users\jackD\source\repos\PopulatingGeo\obj\Debug\net48\QuocGHPlugin.csproj.AssemblyReference.cache
+C:\Users\jackD\source\repos\PopulatingGeo\obj\Debug\net48\QuocGHPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackD\source\repos\PopulatingGeo\obj\Debug\net48\QuocGHPlugin.AssemblyInfoInputs.cache
+C:\Users\jackD\source\repos\PopulatingGeo\obj\Debug\net48\QuocGHPlugin.AssemblyInfo.cs
+C:\Users\jackD\source\repos\PopulatingGeo\obj\Debug\net48\QuocGHPlugin.csproj.CoreCompileInputs.cache
+C:\Users\jackD\source\repos\PopulatingGeo\obj\Debug\net48\QuocGHPlugin.gha
+C:\Users\jackD\source\repos\PopulatingGeo\obj\Debug\net48\QuocGHPlugin.pdb
+C:\Users\jackD\source\repos\PopulatingGeo\bin\Debug\net48\Resources\GH plugin.png
+C:\Users\jackD\source\repos\PopulatingGeo\obj\Debug\net48\QuocGHPlugin.Properties.Resources.resources
+C:\Users\jackD\source\repos\PopulatingGeo\obj\Debug\net48\QuocGHPlugin.csproj.GenerateResource.cache

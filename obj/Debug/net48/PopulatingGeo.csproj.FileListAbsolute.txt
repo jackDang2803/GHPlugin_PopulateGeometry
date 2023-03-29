@@ -1,0 +1,9 @@
+C:\Users\jackD\source\repos\PopulatingGeo\bin\Debug\net48\PopulatingGeo.gha
+C:\Users\jackD\source\repos\PopulatingGeo\bin\Debug\net48\PopulatingGeo.pdb
+C:\Users\jackD\source\repos\PopulatingGeo\obj\Debug\net48\PopulatingGeo.csproj.AssemblyReference.cache
+C:\Users\jackD\source\repos\PopulatingGeo\obj\Debug\net48\PopulatingGeo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackD\source\repos\PopulatingGeo\obj\Debug\net48\PopulatingGeo.AssemblyInfoInputs.cache
+C:\Users\jackD\source\repos\PopulatingGeo\obj\Debug\net48\PopulatingGeo.AssemblyInfo.cs
+C:\Users\jackD\source\repos\PopulatingGeo\obj\Debug\net48\PopulatingGeo.csproj.CoreCompileInputs.cache
+C:\Users\jackD\source\repos\PopulatingGeo\obj\Debug\net48\PopulatingGeo.gha
+C:\Users\jackD\source\repos\PopulatingGeo\obj\Debug\net48\PopulatingGeo.pdb
